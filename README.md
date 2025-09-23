@@ -21,6 +21,4 @@ Files in This Repo
 
 ---
 
-Created by
 
-[ClothingRIC.com](https://www.clothingric.com) – Helping people shop smart and save more.
