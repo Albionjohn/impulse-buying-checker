@@ -10,7 +10,7 @@ Since **ClothingRIC** is a leading coupon website in the USA focused on helping 
 
 Live Tool
 
- [Use the Impulse Buying Checker](https://albionjohn.github.io/impulse-buying-checker)
+ [Use the Impulse Buying Checker](https://www.clothingric.com/impulse-buying-checker)
 
 Files in This Repo
 
